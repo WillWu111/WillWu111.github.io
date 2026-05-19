@@ -1,0 +1,48 @@
+Yunfeng Wu
+
+Email: yunfeng.wu22@gmail.com
+Github: https://github.com/WillWu111/
+Location: Suzhou, China
+
+EDUCATION
+---------
+Xi'an Jiaotong-Liverpool University
+BSc in Information and Computing Science
+09/2022 - 07/2026 (Expected)
+GPA: 3.86/4.0, Major GPA: 3.96/4.0
+
+RESEARCH INTERESTS
+-----------------
+Computer Vision, Deep Learning, Generative AI, Image/Video Processing
+
+RESEARCH EXPERIENCE
+------------------
+Visiting Student, Shanghai Jiao Tong University
+School of Artificial Intelligence
+07/2025 - 03/2026
+Supervised by Songhua Liu
+
+Research Assistant, Xi'an Jiaotong-Liverpool University
+School of Advanced Technology
+06/2024 - 06/2025
+Supervised by Yue Yong, Xiaohui Zhu
+
+SELECTED PUBLICATIONS
+--------------------
+ViBe: Ultra-High-Resolution Video Synthesis Born from Pure Images
+Y. Wu, H. Cheng, Z. He, S. Liu
+ECCV 2026 (under review)
+
+FreeSwim: Revisiting Sliding-Window Attention Mechanisms for Training-Free Ultra-High-Resolution Video Generation
+Y. Wu, J. Song, Z. Tan, Z. He, S. Liu
+ECCV 2026 (under review)
+
+MitPose: Multi-Granularity Guided Vision Transformer for Human Pose Estimation
+Y. Wu, Q. Gao, Y. Liu, J. Sun, Z. Li, Y. Jin, Y. Yue, X. Zhu
+INDIN 2025
+
+AWARDS
+------
+University Academic Excellence Award (Top 5%), 2025/2026
+University Academic Achievement Award (Top 10%), 2024/2025
+Outstanding Undergraduate Summer Research Fellowship, 2024/2025
